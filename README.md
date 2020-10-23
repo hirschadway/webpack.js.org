@@ -6,12 +6,6 @@
 Guides, documentation, and all things webpack.
 
 
-## Content Progress
-
-Now that we've covered much of the backlog of _missing documentation_, we are
-starting to heavily review each section of the site's content to sort and
-structure it appropriately. The following issues should provide a pretty good
-idea of where things are, and where they are going:
 
 - [Guides - Review and Simplify][1]
 - [Concepts - Review and Organize][2]
